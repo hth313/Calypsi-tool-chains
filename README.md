@@ -113,7 +113,7 @@ The 68000 target supports the Motorola 68000 processor.
   for the C256U and FMX new retro computers. You can find more information
   about these computers at https://c256foenix.com
 
-* [Hello World for A2560U](Calypsi-m68k-hello-world)
+* [Hello World for A2560U](https://github.com/hth313/Calypsi-m68k-hello-world)
   is a simple Hello World project which uses the Foenix A2560U board
   support as a submodule
 
