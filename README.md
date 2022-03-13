@@ -8,17 +8,34 @@ targets used in embedded programming.
 ## Feedback and issues
 
 If you cannot find a suitable project below to post questions or
-report issues in, feel free to do it in this project.
+report issues in, feel free to do it in this
+[project](https://github.com/hth313/Calypsi-tool-chains).
 
 ## Allowed use
 
 The tools are closed source and the long term goal is to provide
 quality tools for commercial use. You can use them free of charge for
-hobby purposes, which very roughly means you or not making a living
+hobby purposes, which means you are not allowed to making your living
 based on using the tools, either directly or indirectly.
 
 If you do make your living based on these products then you can buy a
 license.
+
+## Dontations
+
+This code base is maintained full time and dontations to help with it
+is very much apprechiated. If you feel that you want to help you can
+do so by using Paypal to hth313@gmail.com. This is by no means
+mandatory, you are free to use the tools regardless, as mentioned above.
+
+Currently I am hoping to raise money for a new Mac laptop as my current
+one is 7 years old. Long term macOS support of these tools relies on
+this.
+
+## Contact
+
+If you feel need to reach me directly you can do so by sending
+e-mail to hth313@gmail.com.
 
 ## Highlights
 
