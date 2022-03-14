@@ -21,9 +21,9 @@ based on using the tools, either directly or indirectly.
 If you do make your living based on these products then you can buy a
 license.
 
-## Dontations
+## Donations
 
-This code base is maintained full time and dontations to help with it
+This code base is maintained full time and donations to help with it
 is very much appreciated. If you feel that you want to help you can
 do so by using Paypal to hth313@gmail.com. This is by no means
 mandatory, you are free to use the tools regardless, as mentioned above.
@@ -43,7 +43,7 @@ e-mail to hth313@gmail.com.
   implementation with many features you will typically find in a
   hosted compiler.
 
-* Fully reentrant code model.
+* Fully re-entrant code model.
 
 * Support for all integer types up to 64 bits `long long`.
 
