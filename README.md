@@ -24,7 +24,7 @@ license.
 ## Dontations
 
 This code base is maintained full time and dontations to help with it
-is very much apprechiated. If you feel that you want to help you can
+is very much appreciated. If you feel that you want to help you can
 do so by using Paypal to hth313@gmail.com. This is by no means
 mandatory, you are free to use the tools regardless, as mentioned above.
 
