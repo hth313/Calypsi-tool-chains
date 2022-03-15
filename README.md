@@ -5,38 +5,6 @@ tool chains. The current tool chains are aimed towards the
 retro and hobby communities. Future products will be for typical
 targets used in embedded programming.
 
-## Feedback and issues
-
-If you cannot find a suitable project below to post questions or
-report issues in, feel free to do it in this
-[project](https://github.com/hth313/Calypsi-tool-chains).
-
-## Allowed use
-
-The tools are closed source and the long term goal is to provide
-quality tools for commercial use. You can use them free of charge for
-hobby purposes, which means you are not allowed to making your living
-based on using the tools, either directly or indirectly.
-
-If you do make your living based on these products then you can buy a
-license.
-
-## Donations
-
-This code base is maintained full time and donations to help with it
-is very much appreciated. If you feel that you want to help you can
-do so by using Paypal to hth313@gmail.com. This is by no means
-mandatory, you are free to use the tools regardless, as mentioned above.
-
-Currently I am hoping to raise money for a new Mac laptop as my current
-one is 7 years old. Long term macOS support of these tools relies on
-this.
-
-## Contact
-
-If you feel need to reach me directly you can do so by sending
-e-mail to hth313@gmail.com.
-
 ## Highlights
 
 * ISO C 99 compiler. This is a freestanding
@@ -49,8 +17,8 @@ e-mail to hth313@gmail.com.
 
 * Floating point supported (32 and 64 bits IEEE-754).
 
-* Full support for struct, union, typedef and what you expect to
-  find in C.
+* Full support for `struct`, `union`, `typedef` and what you
+  expect to find in C.
 
 * Support for (stack allocated) variable sized arrays.
 
@@ -61,6 +29,38 @@ e-mail to hth313@gmail.com.
 
 * Support for ELF/DWARF, hex output as well as various target specific
   output formats.
+
+## Allowed use
+
+The tools are closed source and the long term goal is to provide
+quality tools for commercial use. You can use them free of charge for
+hobby purposes, which means you are not allowed to making your living
+based on using the tools, either directly or indirectly.
+
+If you do make your living based on these products then you can buy a
+license.
+
+## Feedback and issues
+
+If you cannot find a suitable project below to post questions or
+report issues in, feel free to do it in this
+[project](https://github.com/hth313/Calypsi-tool-chains).
+
+## Contact
+
+If you feel need to reach me directly you can do so by sending
+e-mail to hth313@gmail.com.
+
+## Donations
+
+Donations to help me work on this code base is very much appreciated.
+If you feel that you want to help you can do so by using Paypal to
+hth313@gmail.com. This is by no means mandatory, you are free to use
+the tools regardless, as mentioned above.
+
+Currently I am hoping to raise money towards a new Mac laptop as the
+current one being used is 7 years old. Long term support on macOs of
+these tools relies on this.
 
 ## MOS 6502 target
 
