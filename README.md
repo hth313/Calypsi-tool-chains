@@ -37,8 +37,9 @@ quality tools for commercial use. You can use them free of charge for
 hobby purposes, which means you are not allowed to making your living
 based on using the tools, either directly or indirectly.
 
-If you do make your living based on these products then you can buy a
-license.
+If you do make your living based on these products or want to discuss
+contract development, you can reach me by sending e-mail to
+hth313@gmail.com.
 
 ## Feedback and issues
 
