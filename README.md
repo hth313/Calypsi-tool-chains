@@ -5,6 +5,28 @@ tool chains. The current tool chains are aimed towards the
 retro and hobby communities. Future products will be for typical
 targets used in embedded programming.
 
+## News, recent releases
+
+### 3.6.1 April 2022
+
+* Simplified linker files.
+
+* Source debugging on target (68000)
+
+* Semi-hosted support. Allows the debugger to provide streams, file
+  system and assert functionality to a program being debugged if the
+  target system lacks such abilities.
+
+### 3.5.1 January, 2022
+
+* 68000 tool chain added.
+
+* Windows supported platform.
+
+* Source debugging on target (65816)
+
+* Full 64 bit floating point support.
+
 ## Highlights
 
 * ISO C 99 compiler. This is a freestanding
