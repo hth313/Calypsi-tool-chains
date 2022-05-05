@@ -63,6 +63,11 @@ If you do make your living based on these products or want to discuss
 contract development, you can reach me by sending e-mail to
 hth313@gmail.com.
 
+An exception to the above is given to the HP-41 Nut target which is
+provided with a BSD license to its binary distribution.
+Permission is given to use the HP-41 Nut tools for commercial use,
+free of charge.
+
 ## Feedback and issues
 
 If you cannot find a suitable project below to post questions or
