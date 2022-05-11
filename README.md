@@ -54,14 +54,12 @@ targets used in embedded programming.
 
 ## Allowed use
 
-The tools are closed source and the long term goal is to provide
-quality tools for commercial use. You can use them free of charge for
-hobby purposes, which means you are not allowed to making your living
+The tools are closed source. You can use them free of charge for
+hobby purposes, which means you are not allowed to make your living
 based on using the tools, either directly or indirectly.
 
-If you do make your living based on these products or want to discuss
-contract development, you can reach me by sending e-mail to
-hth313@gmail.com.
+Having a small side or hobby based income from using the Calypsi
+tools is permitted.
 
 An exception to the above is given to the HP-41 Nut target which is
 provided with a BSD license to its binary distribution.
