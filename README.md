@@ -7,7 +7,7 @@ targets used in embedded programming.
 
 ## News, recent releases
 
-### 3.6.4 June 2022
+### 3.6.6 July 2022
 
 * Simplified linker files.
 
@@ -103,17 +103,17 @@ The 6502 target supports the MOS6502 and WDC65C02 processors.
 
 ### Downloads
 
-You can find the [current user guide here](https://tinyurl.com/yckndx3z).
+You can find the [current user guide here](https://tinyurl.com/3j35hn2n).
 
 Installers are available for some common 64 bit operating systems.
 
-* [Arch Linux amd64](https://tinyurl.com/5h54v466)
+* [Arch Linux amd64](https://tinyurl.com/2cwuzyd4)
 
-* [Debian Linux amd64](https://tinyurl.com/2p82d9hj)
+* [Debian Linux amd64](https://tinyurl.com/34yu9rhk)
 
-* [macOS](https://tinyurl.com/4jsj85d5)
+* [macOS](https://tinyurl.com/2p863k62)
 
-* [Windows](https://tinyurl.com/55nb867w)
+* [Windows](https://tinyurl.com/m54yhsbw)
 
 
 ## WDC 65816 target
@@ -134,17 +134,17 @@ The 65816 target supports the WDC65816 processor.
 
 ### Downloads
 
-You can find the [current user guide here](https://tinyurl.com/4fm4p5bj).
+You can find the [current user guide here](https://tinyurl.com/ynxt5p3m).
 
 Installers are available for some common 64 bit operating systems.
 
-* [Arch Linux amd64](https://tinyurl.com/3xsbsr58)
+* [Arch Linux amd64](https://tinyurl.com/y66c5utu)
 
-* [Debian Linux amd64](https://tinyurl.com/mr28dwjc)
+* [Debian Linux amd64](https://tinyurl.com/u5pt4jth)
 
-* [macOS](https://tinyurl.com/2p9frv2n)
+* [macOS](https://tinyurl.com/4f7y3kf3)
 
-* [Windows](https://tinyurl.com/59ep34nk)
+* [Windows](https://tinyurl.com/bdfavpkm)
 
 ## Motorola 68000 target
 
@@ -164,17 +164,17 @@ The 68000 target supports the Motorola 68000 processor.
 
 ### Downloads
 
-You can find the [current user guide here](https://tinyurl.com/4m7bnr6k).
+You can find the [current user guide here](https://tinyurl.com/3j35hn2n).
 
 Installers are available for some common 64 bit operating systems.
 
-* [Arch Linux amd64](https://tinyurl.com/mw4hyu4a)
+* [Arch Linux amd64](https://tinyurl.com/2cwuzyd4)
 
-* [Debian Linux amd64](https://tinyurl.com/4h5j5fnc)
+* [Debian Linux amd64](https://tinyurl.com/34yu9rhk)
 
-* [macOS](https://tinyurl.com/55uwfk5x)
+* [macOS](https://tinyurl.com/2p863k62)
 
-* [Windows](https://tinyurl.com/3mjmfv93)
+* [Windows](https://tinyurl.com/m54yhsbw)
 
 ## HP Nut target
 
@@ -194,15 +194,15 @@ The Nut target supports the HP-41 Nut and NEWT processors.
 
 ### Downloads
 
-You can find the [current tools user guide here](https://tinyurl.com/2p8u6tvc)
-and the separate [debugger user guide here](https://tinyurl.com/yh9r3m3z).
+You can find the [current tools user guide here](https://tinyurl.com/35bzvv8y)
+and the separate [debugger user guide here](https://tinyurl.com/467nj59f).
 
 Installers are available for some common 64 bit operating systems.
 
-* [Arch Linux amd64](https://tinyurl.com/5n7e8y5b)
+* [Arch Linux amd64](https://tinyurl.com/mvxx8pjr)
 
-* [Debian Linux amd64](https://tinyurl.com/f8fk5sx9)
+* [Debian Linux amd64](https://tinyurl.com/2ux38x8u)
 
-* [macOS](https://tinyurl.com/ums9rws6)
+* [macOS](https://tinyurl.com/2dmfjc7p)
 
-* [Windows](https://tinyurl.com/4m2xwkut)
+* [Windows](https://tinyurl.com/3spdw5ka)
