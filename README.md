@@ -164,17 +164,17 @@ The 68000 target supports the Motorola 68000 processor.
 
 ### Downloads
 
-You can find the [current user guide here](https://tinyurl.com/3j35hn2n).
+You can find the [current user guide here](https://tinyurl.com/59naurzb).
 
 Installers are available for some common 64 bit operating systems.
 
-* [Arch Linux amd64](https://tinyurl.com/2cwuzyd4)
+* [Arch Linux amd64](https://tinyurl.com/2drreycm)
 
-* [Debian Linux amd64](https://tinyurl.com/34yu9rhk)
+* [Debian Linux amd64](https://tinyurl.com/bddpv25k)
 
-* [macOS](https://tinyurl.com/2p863k62)
+* [macOS](https://tinyurl.com/ypxezn9x)
 
-* [Windows](https://tinyurl.com/m54yhsbw)
+* [Windows](https://tinyurl.com/46wrurfb)
 
 ## HP Nut target
 
