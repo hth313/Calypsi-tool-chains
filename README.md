@@ -84,10 +84,6 @@ If you feel that you want to help you can do so by using Paypal to
 hth313@gmail.com. This is by no means mandatory, you are free to use
 the tools regardless, as mentioned above.
 
-Currently I am hoping to raise money towards a new Mac laptop as the
-current one being used is 7 years old. Long term support on macOs of
-these tools relies on this.
-
 ## MOS 6502 target
 
 The 6502 target supports the MOS6502 and WDC65C02 processors.
