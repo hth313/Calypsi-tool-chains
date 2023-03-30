@@ -135,7 +135,7 @@ The Nut target supports the HP-41 Nut and NEWT processors.
 * [OS4](https://github.com/hth313/OS4) is an extension module for the
   HP-41C operating system which greatly expands its capabilities
 
-* [Ladybug](https://github.com/hth313/ladybug)is an HP-16C inspired
+* [Ladybug](https://github.com/hth313/ladybug) is an HP-16C inspired
   module which makes use of the OS4 module to bring a HP-16C style
   calculator into the HP-41C
 
