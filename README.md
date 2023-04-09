@@ -5,40 +5,22 @@ tool chains. The current tool chains are aimed towards the
 retro and hobby communities. Future products will be for typical
 targets used in embedded programming.
 
-## News, recent releases
+## Supported targets and platforms
 
-### 4.1 April, 2023
+Latest release is [4.1](https://github.com/hth313/Calypsi-tool-chains/releases/tag/4.1)
+available for the following targets:
 
-* Updated C library, with more math functions and inspection of `printf()`
-  format strings.
+* MOS 6502
+* WDC 65816
+* Motorola 68000
+* HP Nut (assembler only)
 
-* Support for F256 Jr. and MEGA65
+Supported host platforms are:
 
-* TOS file output (68000), multi-file output for RAW and PRG formats.
-
-* Assembler directive `.incbin` to inject binary data.
-
-* Named local assembly labels.
-
-### 3.6.10 September, 2022
-
-* Simplified linker files.
-
-* Source debugging on target (68000)
-
-* Semi-hosted support. Allows the debugger to provide streams, file
-  system and assert functionality to a program being debugged if the
-  target system lacks such abilities.
-
-### 3.5.1 January, 2022
-
-* 68000 tool chain added.
-
-* Windows supported platform.
-
-* Source debugging on target (65816)
-
-* Full 64 bit floating point support.
+* Arch Linux, 64-bit x86
+* Debian based Linux (built on Ubuntu 20.04), 64-bit x86
+* macOS x86
+* Windows 64-bit, built on Windows 10
 
 ## Highlights
 
@@ -97,15 +79,13 @@ If you feel that you want to help you can do so by using Paypal to
 hth313@gmail.com. This is by no means mandatory, you are free to use
 the tools regardless, as mentioned above.
 
-Currently I am hoping to raise money towards a new Mac laptop as the
-current one being used is 7 years old. Long term support on macOs of
-these tools relies on this.
-
 ## MOS 6502 target
 
 The 6502 target supports the MOS6502 and WDC65C02 processors.
 
 ### Open source projects
+
+* [F256 Jr.](https://github.com/hth313/Calypsi-6502-Foenix) board support
 
 * [Commodore 64](https://github.com/hth313/Calypsi-6502-Commodore) board support
 
@@ -113,21 +93,6 @@ The 6502 target supports the MOS6502 and WDC65C02 processors.
   is a simple Hello World project which uses the board support as a submodule
 
 * [On target debugger agent](https://github.com/hth313/Calypsi-remote-debug)
-
-### Downloads
-
-You can find the [current user guide here](https://tinyurl.com/2crv4udx).
-
-Installers are available for some common 64 bit operating systems.
-
-* [Arch Linux amd64](https://tinyurl.com/e32xxryy)
-
-* [Debian Linux amd64](https://tinyurl.com/5ychxfmv)
-
-* [macOS](https://tinyurl.com/5fmrvfuk)
-
-* [Windows](https://tinyurl.com/yck7mzf4)
-
 
 ## WDC 65816 target
 
@@ -145,20 +110,6 @@ The 65816 target supports the WDC65816 processor.
 
 * [On target debugger agent](https://github.com/hth313/Calypsi-remote-debug)
 
-### Downloads
-
-You can find the [current user guide here](https://tinyurl.com/2tf54sks).
-
-Installers are available for some common 64 bit operating systems.
-
-* [Arch Linux amd64](https://tinyurl.com/mvfwnna6)
-
-* [Debian Linux amd64](https://tinyurl.com/2p9hmhyw)
-
-* [macOS](https://tinyurl.com/4dnua2tv)
-
-* [Windows](https://tinyurl.com/mupd849t)
-
 ## Motorola 68000 target
 
 The 68000 target supports the Motorola 68000 processor.
@@ -166,7 +117,7 @@ The 68000 target supports the Motorola 68000 processor.
 ### Open source projects
 
 * [Foenix A2560U/K](https://github.com/hth313/Calypsi-m68k-Foenix) board support
-  for the C256U and FMX new retro computers. You can find more information
+  for the A2560 new retro computers. You can find more information
   about these computers at https://c256foenix.com
 
 * [Hello World for A2560U](https://github.com/hth313/Calypsi-m68k-hello-world)
@@ -174,20 +125,6 @@ The 68000 target supports the Motorola 68000 processor.
   support as a submodule
 
 * [On target debugger agent](https://github.com/hth313/Calypsi-remote-debug)
-
-### Downloads
-
-You can find the [current user guide here](https://tinyurl.com/5yjazv9z).
-
-Installers are available for some common 64 bit operating systems.
-
-* [Arch Linux amd64](https://tinyurl.com/4dav6zdk)
-
-* [Debian Linux amd64](https://tinyurl.com/4xn9nws8)
-
-* [macOS](https://tinyurl.com/3a79eb2d)
-
-* [Windows](https://tinyurl.com/55m4ehma)
 
 ## HP Nut target
 
@@ -198,24 +135,9 @@ The Nut target supports the HP-41 Nut and NEWT processors.
 * [OS4](https://github.com/hth313/OS4) is an extension module for the
   HP-41C operating system which greatly expands its capabilities
 
-* [Ladybug](https://github.com/hth313/ladybug)is an HP-16C inspired
+* [Ladybug](https://github.com/hth313/ladybug) is an HP-16C inspired
   module which makes use of the OS4 module to bring a HP-16C style
   calculator into the HP-41C
 
 * [Boost41](https://github.com/hth313/boost41) provides user functions
   that is based on the features provided by the OS4 module
-
-### Downloads
-
-You can find the [current tools user guide here](https://tinyurl.com/2azhmsfz)
-and the separate [debugger user guide here](https://tinyurl.com/224vccdt).
-
-Installers are available for some common 64 bit operating systems.
-
-* [Arch Linux amd64](https://tinyurl.com/3y9ph77u)
-
-* [Debian Linux amd64](https://tinyurl.com/32txucam)
-
-* [macOS](https://tinyurl.com/3ut3hy97)
-
-* [Windows](https://tinyurl.com/5y8ff6kk)
