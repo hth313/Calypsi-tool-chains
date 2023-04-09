@@ -7,7 +7,20 @@ targets used in embedded programming.
 
 ## News, recent releases
 
-### 3.6.10 September 2022
+### 4.1 April, 2023
+
+* Updated C library, with more math functions and inspection of `printf()`
+  format strings.
+
+* Support for F256 Jr. and MEGA65
+
+* TOS file output (68000), multi-file output for RAW and PRG formats.
+
+* Assembler directive `.incbin` to inject binary data.
+
+* Named local assembly labels.
+
+### 3.6.10 September, 2022
 
 * Simplified linker files.
 
