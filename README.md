@@ -7,13 +7,13 @@ targets used in embedded programming.
 
 ## Supported targets and platforms
 
-Latest release is [4.3](https://github.com/hth313/Calypsi-tool-chains/releases/tag/4.3)
-available for the following targets:
+[Latest release is 4.3 available here for the following targets]
+(https://github.com/hth313/Calypsi-tool-chains/releases/tag/4.3):
 
 * MOS 6502
 * WDC 65816
 * Motorola 68000
-* HP Nut (assembler only)
+* HP Nut (assembler and debugger only)
 
 Supported host platforms are:
 
@@ -116,13 +116,21 @@ The 68000 target supports the Motorola 68000 processor.
 
 ### Open source projects
 
+* [Amiga](https://github.com/hth313/Calypsi-Amiga) runtime support. This project
+  is included with the product, but you can study the source code here and
+  contribute to it.
+
+* [Hello World for the Amiga](https://github.com/hth313/Calypsi-Amiga-hello-world)
+  is a simple Hello World project for the Amiga.
+
 * [Foenix A2560U/K](https://github.com/hth313/Calypsi-m68k-Foenix) board support
-  for the A2560 new retro computers. You can find more information
-  about these computers at https://c256foenix.com
+  for the A2560 new retro computers.
+  This project is included with the product, but you can study the source code here
+  and contribute to it.
+  You can find more information about these computers at https://c256foenix.com
 
 * [Hello World for A2560U](https://github.com/hth313/Calypsi-m68k-hello-world)
-  is a simple Hello World project which uses the Foenix A2560U board
-  support as a submodule
+  is a simple Hello World project.
 
 * [On target debugger agent](https://github.com/hth313/Calypsi-remote-debug)
 
