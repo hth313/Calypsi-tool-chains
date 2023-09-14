@@ -80,7 +80,7 @@ the tools regardless, as mentioned above.
 
 ## MOS 6502 target
 
-The 6502 target supports the MOS6502 and WDC65C02 processors.
+The 6502 target supports the MOS6502, WDC65C02 and 45GS02 processors.
 
 ### Open source projects
 
