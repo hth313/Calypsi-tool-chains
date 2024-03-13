@@ -7,7 +7,7 @@ targets used in embedded programming.
 
 ## Supported targets and platforms
 
-[Latest release is 5.2 available here for the following targets](https://github.com/hth313/Calypsi-tool-chains/releases/tag/5.2):
+[Latest release is 5.3 available here for the following targets](https://github.com/hth313/Calypsi-tool-chains/releases/tag/5.3):
 
 * MOS 6502
 * WDC 65816
@@ -107,6 +107,10 @@ The 65816 target supports the WDC65816 processor.
 * [Hello World for C256U](https://github.com/hth313/Calypsi-65816-hello-world)
   is a simple Hello World project which uses the Foenix C256 board
   support as a submodule
+
+* [Foenix F256](https://github.com/hth313/Calypsi-65816-F256) board support
+  for the F256 and F256K retro computers. You can find more information
+  about these computers at https://c256foenix.com
 
 * [On target debugger agent](https://github.com/hth313/Calypsi-remote-debug)
 
