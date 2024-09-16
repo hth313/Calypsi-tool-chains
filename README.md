@@ -7,7 +7,7 @@ targets used in embedded programming.
 
 ## Supported targets and platforms
 
-[Latest release is 5.5 available here for the following targets](https://github.com/hth313/Calypsi-tool-chains/releases/tag/5.5):
+[Latest release is 5.6 available here for the following targets](https://github.com/hth313/Calypsi-tool-chains/releases/tag/5.5):
 
 * MOS 6502
 * WDC 65816
@@ -83,8 +83,6 @@ the tools regardless, as mentioned above.
 The 6502 target supports the MOS6502, WDC65C02 and 45GS02 processors.
 
 ### Open source projects
-
-* [F256 Jr.](https://github.com/hth313/Calypsi-6502-Foenix) board support
 
 * [Commodore](https://github.com/hth313/Calypsi-6502-Commodore) board support
   for Commodore 64, MEGA65 and Commander X16.
