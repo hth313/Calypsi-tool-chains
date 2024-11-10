@@ -7,7 +7,7 @@ targets used in embedded programming.
 
 ## Supported targets and platforms
 
-[Latest release is 5.6 available here for the following targets](https://github.com/hth313/Calypsi-tool-chains/releases/tag/5.6):
+[Latest release is 5.7 available here for the following targets](https://github.com/hth313/Calypsi-tool-chains/releases/tag/5.7):
 
 * MOS 6502
 * WDC 65816
@@ -18,6 +18,7 @@ Supported host platforms are:
 
 * Arch Linux, 64-bit x86
 * Debian based Linux (built on Ubuntu 20.04), 64-bit x86
+* Fedora based Linux (built on Fedora version 40), 64-bit x86 (except Nut target)
 * macOS x86
 * Windows 64-bit, built on Windows 10
 
@@ -73,10 +74,10 @@ e-mail to hth313@gmail.com.
 
 ## Donations
 
-Donations to help me work on this code base is very much appreciated.
-If you feel that you want to help you can do so by using Paypal to
-hth313@gmail.com. This is by no means mandatory, you are free to use
-the tools regardless, as mentioned above.
+A [donation](https://buymeacoffee.com/hth313) helps me work on this code
+base is very much appreciated.
+This is by no means mandatory, you are free to use the tools regardless,
+as mentioned above.
 
 ## MOS 6502 target
 
@@ -114,7 +115,8 @@ The 65816 target supports the WDC65816 processor.
 
 ## Motorola 68000 target
 
-The 68000 target supports the Motorola 68000 processor.
+The 68000 target supports the Motorola 68000, 68020, 68040 processors.
+There is also partial support for the APOLLO 68080 core.
 
 ### Open source projects
 
