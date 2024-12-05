@@ -76,8 +76,6 @@ e-mail to hth313@gmail.com.
 
 A [donation](https://buymeacoffee.com/hth313) helps me work on this code
 base is very much appreciated.
-This is by no means mandatory, you are free to use the tools regardless,
-as mentioned above.
 
 ## MOS 6502 target
 
