@@ -7,7 +7,7 @@ targets used in embedded programming.
 
 ## Supported targets and platforms
 
-[Latest release is 5.8.1 available here for the following targets](https://github.com/hth313/Calypsi-tool-chains/releases/tag/5.8.1):
+[Latest release is 5.9 available here for the following targets](https://github.com/hth313/Calypsi-tool-chains/releases/tag/5.9):
 
 * MOS 6502
 * WDC 65816
@@ -75,7 +75,7 @@ e-mail to hth313@gmail.com.
 ## Donations
 
 A [donation](https://buymeacoffee.com/hth313) helps me work on this code
-base is very much appreciated.
+base and is very much appreciated.
 
 ## MOS 6502 target
 
