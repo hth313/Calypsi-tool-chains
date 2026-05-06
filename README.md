@@ -7,7 +7,7 @@ targets used in embedded programming.
 
 ## Supported targets and platforms
 
-[Latest release is 5.16 available here for the following targets](https://github.com/hth313/Calypsi-tool-chains/releases/tag/5.16):
+[Latest release is 5.17 available here for the following targets](https://github.com/hth313/Calypsi-tool-chains/releases/tag/5.17):
 
 * MOS 6502
 * WDC 65816
@@ -87,7 +87,7 @@ The 6502 target supports the MOS6502, WDC65C02 and 45GS02 processors.
   for Commodore 64 and MEGA65.
 
 * [Hello World for Commodore 64](https://github.com/hth313/Calypsi-6502-hello-world)
-  is a simple Hello World project which uses the board support as a submodule
+  is a simple Hello World project
 
 * [On target debugger agent](https://github.com/hth313/Calypsi-remote-debug)
 
@@ -103,11 +103,10 @@ The 65816 target supports the WDC65816 processor.
 
 * [Hello World for C256U](https://github.com/hth313/Calypsi-65816-hello-world)
   is a simple Hello World project which uses the Foenix C256 board
-  support as a submodule
 
 * [Foenix F256](https://github.com/hth313/Calypsi-65816-F256) board support
-  for the F256 and F256K retro computers. You can find more information
-  about these computers at https://c256foenix.com
+  for the F256 computers.
+  You can find more information at https://wildbitscomputing.com/
 
 * [On target debugger agent](https://github.com/hth313/Calypsi-remote-debug)
 
@@ -129,7 +128,7 @@ There is also partial support for the APOLLO 68080 core.
   for the A2560 new retro computers.
   This project is included with the product, but you can study the source code here
   and contribute to it.
-  You can find more information about these computers at https://c256foenix.com
+  You can find more information about these computers at https://foenixlabs.com/
 
 * [Hello World for A2560U](https://github.com/hth313/Calypsi-m68k-hello-world)
   is a simple Hello World project.
